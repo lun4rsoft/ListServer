@@ -36,4 +36,4 @@ Misc. Jazz25 features
 *	Cooperation with the JJ25Live project;
 *	Intelligent scanning of servers to collect statistics;
 *	Functions as a tracker for "p2p" passing of resources;
-*
+*	More added when I think of it...
